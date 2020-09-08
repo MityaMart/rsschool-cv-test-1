@@ -3,11 +3,9 @@ Dmitry Martynenko
 
 Contact Info:
 
-e-mail: d.m@vapor.ru
-
-telegram: my telegram
-
-facebook: https://www.facebook.com/dmitry.martynenko.756
+- e-mail: d.m@vapor.ru
+- telegram: my telegram
+- facebook: https://www.facebook.com/dmitry.martynenko.756
 
 Summary:
 
@@ -27,11 +25,11 @@ Please find the results of my work in open github repositories.
 
 Experience:
 
-To-do list on - Java Script application (Using DOM);
+- To-do list on - Java Script application (Using DOM);
 (To-do list)
-HTML layout using GRID and FLEX
+- HTML layout using GRID and FLEX
 (layout using GRID and FLEX);
-Pokedex application - using React - Redux, Pagination, react-router-dom, json-server.
+- Pokedex application - using React - Redux, Pagination, react-router-dom, json-server.
 (Pokedex application).
 Education:
 - Epam training center javascript development (Dec - 2019 - February 2020)
