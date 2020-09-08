@@ -12,7 +12,7 @@ I like to spend my free time learning IT technologies and new developments.
 For me, as for any person, it is important to succeed. I would like to learn new things, 
 turn my life on a new road and become part of the IT world.
 
-Skills:
+Skills: 
 I have basic skills in HTML and CSS (method of BOM), Java script (ES6), understanding of the principles of React and Redux and Flux architecture, git.
 
 Code examples:
