@@ -1,0 +1,18 @@
+.body{
+    background-color: aqua;
+}
+.container{
+    position: relative;
+    background-color: lightgray;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.container-photo {
+    position: relative;
+}
+
+.container-photo__size {
+    width: 150px;
+    height: 150px;
+}
